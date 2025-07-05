@@ -1,8 +1,3 @@
-Siap Tika! Karena project ini adalah **landing page portfolio tanpa CRUD**, artinya kamu hanya menyimpan konten statis secara lokal (misalnya langsung di Blade `.blade.php`, bukan dari database). Aku buatin README-nya yang lebih relevan dan tetap terlihat **profesional & presentable di GitHub** ✨
-
----
-
-````markdown
 # 🌐 Laravel Static Portfolio Landing Page
 
 > Dibuat untuk menampilkan personal branding dan showcase proyek dalam bentuk landing page sederhana menggunakan **Laravel**, **Blade Template**, dan **Tailwind CSS**.
