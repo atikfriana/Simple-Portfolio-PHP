@@ -1,0 +1,48 @@
+/* Wave Container Styling */
+.wave-container {
+    position: relative;
+    height: 200px;
+    overflow: hidden;
+}
+
+/* SVG Wave Styling */
+.waves {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+}
+
+/* Animation for Wave Movement */
+.parallax use {
+    animation: moveWaves 6s cubic-bezier(0.43, 0.13, 0.23, 0.96) infinite;
+    opacity: 0.7;
+}
+
+/* Different speeds for each wave */
+.parallax use:nth-child(1) {
+    animation-delay: -2s;
+    animation-duration: 10s;
+}
+.parallax use:nth-child(2) {
+    animation-delay: -3s;
+    animation-duration: 8s;
+}
+.parallax use:nth-child(3) {
+    animation-delay: -4s;
+    animation-duration: 6s;
+}
+.parallax use:nth-child(4) {
+    animation-delay: -5s;
+    animation-duration: 4s;
+}
+
+/* Keyframes for Wave Movement */
+@keyframes moveWaves {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
