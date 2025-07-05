@@ -39,15 +39,23 @@ resources/views/
 
 ---
 
-## 🖼️ UI Preview
+### 🖼️ UI Preview
 
-| Home                                                                                                | Tools                                                                                                 | Pendidikan + Kontak                                                                                                            |
-| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![Home](https://raw.githubusercontent.com/atikfriana/landingpage-laravel/main/screenshots/home.png) | ![Tools](https://raw.githubusercontent.com/atikfriana/landingpage-laravel/main/screenshots/tools.png) | ![Pendidikan & Kontak](https://raw.githubusercontent.com/atikfriana/landingpage-laravel/main/screenshots/pendidikankontak.png) |
+#### 🏠 Home
+![Home](https://raw.githubusercontent.com/atikfriana/landingpage-laravel/main/screenshots/home.png)
 
-| Portofolio                                                                                                     | Footer                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| ![Portofolio](https://raw.githubusercontent.com/atikfriana/landingpage-laravel/main/screenshots/portfolio.png) | ![Footer](https://raw.githubusercontent.com/atikfriana/landingpage-laravel/main/screenshots/footer.png) |
+#### 🧰 Tools
+![Tools](https://raw.githubusercontent.com/atikfriana/landingpage-laravel/main/screenshots/tools.png)
+
+#### 🎓 Pendidikan + 📞 Kontak
+![Pendidikan + Kontak](https://raw.githubusercontent.com/atikfriana/landingpage-laravel/main/screenshots/pendidikankontak.png)
+
+#### 💼 Portofolio
+![Portofolio](https://raw.githubusercontent.com/atikfriana/landingpage-laravel/main/screenshots/portfolio.png)
+
+#### 🔻 Footer
+![Footer](https://raw.githubusercontent.com/atikfriana/landingpage-laravel/main/screenshots/footer.png)
+
 
 ---
 
