@@ -108,5 +108,3 @@ MIT License © 2025
 Made with ❤️ by Atika Arifiana
 
 ````
-
----
