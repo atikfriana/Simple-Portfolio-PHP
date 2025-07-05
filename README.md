@@ -42,19 +42,20 @@ resources/views/
 ### 🖼️ UI Preview
 
 #### 🏠 Home
-![Home](https://raw.githubusercontent.com/atikfriana/landingpage-laravel/main/screenshots/home.png)
+![Home](https://raw.githubusercontent.com/atikfriana/Simple-Portfolio-PHP/main/screenshots/home.png)
 
 #### 🧰 Tools
-![Tools](https://raw.githubusercontent.com/atikfriana/landingpage-laravel/main/screenshots/tools.png)
+![Tools](https://raw.githubusercontent.com/atikfriana/Simple-Portfolio-PHP/main/screenshots/tools.png)
 
 #### 🎓 Pendidikan + 📞 Kontak
-![Pendidikan + Kontak](https://raw.githubusercontent.com/atikfriana/landingpage-laravel/main/screenshots/pendidikankontak.png)
+![Pendidikan + Kontak](https://raw.githubusercontent.com/atikfriana/Simple-Portfolio-PHP/main/screenshots/pendidikankontak.png)
 
 #### 💼 Portofolio
-![Portofolio](https://raw.githubusercontent.com/atikfriana/landingpage-laravel/main/screenshots/portfolio.png)
+![Portofolio](https://raw.githubusercontent.com/atikfriana/Simple-Portfolio-PHP/main/screenshots/portfolio.png)
 
 #### 🔻 Footer
-![Footer](https://raw.githubusercontent.com/atikfriana/landingpage-laravel/main/screenshots/footer.png)
+![Footer](https://raw.githubusercontent.com/atikfriana/Simple-Portfolio-PHP/main/screenshots/footer.png)
+
 
 
 ---
